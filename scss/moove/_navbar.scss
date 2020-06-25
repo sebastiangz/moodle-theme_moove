@@ -136,7 +136,7 @@ nav.navbar {
 
             .popover-region-container {
                 @extend .scale-up;
-                top: $navbar-height;
+                top: 70px; //$navbar-height;
 
                 .popover-region-header-container {
                     height: 50px;
@@ -296,7 +296,7 @@ nav.navbar {
                 padding: .2rem .8rem 0 1.2rem;
 
                 .slicon-globe {
-                    font-size: 1.2rem;
+                    font-size: 19px; //1.2rem;
                 }
             }
 
