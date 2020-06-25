@@ -239,7 +239,7 @@ class course_renderer extends \core_course_renderer {
         $coursenamelink = html_writer::link($courselink, $coursename, array('class' => $course->visible ? '' : 'dimmed'));
 
         $content = extras::get_course_summary_image($course, $courselink);
-        $content .= $this->course_summary($chelper, $course);
+        /** $content .= $this->course_summary($chelper, $course); */
         $content .= $this->course_contacts($course);
         $content .= $this->course_card_body($chelper, $course, $coursenamelink);
         $content .= $this->course_card_footer($course);
