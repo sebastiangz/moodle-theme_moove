@@ -2,16 +2,14 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e1c12730e50b4e479dc9a65dbeff6671)](https://www.codacy.com/app/willianmanoaraujo/moodle-theme_moove?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=willianmano/moodle-theme_moove&amp;utm_campaign=Badge_Grade)
 
 
-Moodle "Moove" theme repository
+Moodle "Moove" theme repository for ELinea and EDUCON
 ===============================
 
 ![screenshot](pix/screenshot.jpg "Moove Screenshot")
 
 ---------
 
-Moove is Moodle's theme that makes online environments more clean and intuitive for learners and educators. Its intuitive layout is optimised for online learning, focusing on the things that matter - your learning activities and content.
-
-Moovee is built on Boostrap4 and Mustache templates.
+Moovee is built on Boostrap4 and Mustache templates for ELinea & EDUCON
 
 Documentation
 =============
@@ -24,6 +22,7 @@ Willian Mano
  - Zend Certified PHP Engineer - ZEND028770
  - Certified Scrum Master - 000570341
  - iMasters Certified Professional - PHP - Good Practices - 1076
+ - Adjustments  
 
 Moodle profile: https://moodle.org/user/profile.php?id=968235
 
